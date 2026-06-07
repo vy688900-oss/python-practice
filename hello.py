@@ -1,3 +1,2 @@
-hello.py
-print("Hello vanshika")
-print("learning Git")
+name=input("enter your name")
+print("Hello",name)
