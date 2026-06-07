@@ -11,6 +11,11 @@ learning GitHub
 learning commit
 learning code
 
+## skills
+GitHub 
+python 
+documentation 
+
 ## Author
 vanshika
 
