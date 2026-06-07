@@ -6,6 +6,12 @@ learning Git,GitHub and python
 ## program 
 hello.py
 
-##Author
+## Goals
+learning GitHub 
+learning commit
+learning code
+
+## Author
 vanshika
+
 
